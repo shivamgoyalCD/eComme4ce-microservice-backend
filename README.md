@@ -1,7 +1,5 @@
 # eComme4ce-microservice-backend
 
-# e-Commerce-boot μServices 
-
 <!--## Better Code Hub
 I analysed this repository according to the clean code standards on [Better Code Hub](https://bettercodehub.com/) just to get an independent opinion of how bad the code is. Surprisingly, the compliance score is high!
 -->
